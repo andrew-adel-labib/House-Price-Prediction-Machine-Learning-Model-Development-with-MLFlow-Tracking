@@ -1,0 +1,14 @@
+artifact_uri: file:///h:/Data%20Scientists%20Projects/House%20Price%20Prediction/mlruns/652738757862778143/ce7cc78f45bb4406b0862ab463230735/artifacts
+end_time: 1751988044943
+entry_point_name: ''
+experiment_id: '652738757862778143'
+lifecycle_stage: active
+run_id: ce7cc78f45bb4406b0862ab463230735
+run_name: polite-wolf-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751987872565
+status: 3
+tags: []
+user_id: andrew.labib
